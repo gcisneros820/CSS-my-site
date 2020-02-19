@@ -1,3 +1,37 @@
 body {
-  background-color: blue;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+h1 {
+  margin: 0;
+  font-family: 'Cuprum', sans-serif;
+}
+h2 {
+font-family: 'Montserrat', sans-serif;
+}
+h3 {
+  family-font: 'Montserrat', sans-serif;
+}
+.top-container {
+  background-color: #b0f4e6;
+  position: relative;
+  padding-top: 100px;
+}
+.middle-container {
+
+}
+.bottom-container {
+
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 60px;
 }
